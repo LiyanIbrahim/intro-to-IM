@@ -21,6 +21,6 @@ This artwork allows the user to interact with it by hovering over the popup wind
   ![](3.png) </br>
 
   </p>
-  <p>
-   [Click here to run the code and interact with the artwork!] (https://github.com/LiyanIbrahim/intro-to-IM/blob/master/September22/Art_2.pde)
+  <p><a href = "https://github.com/LiyanIbrahim/intro-to-IM/blob/master/September22/Art_2.pde" target = "_self">Click here to run the code and interact with the    artwork!</a>
+   
   </p>

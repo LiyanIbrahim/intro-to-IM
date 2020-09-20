@@ -6,9 +6,10 @@ This artwork allows the user to interact with it by hovering over the popup wind
   
   </p>
   <p>
-  This is the static interpretation of the artwork. </br>
+  
+  **This is the static interpretation of the artwork.** </br>
   When you first run it: </br>
-
+  ![](1.png)
   Upon hovering over the window with the mouse: </br>
 
   The final product (after completely hovering over the window and filling it up): </br>

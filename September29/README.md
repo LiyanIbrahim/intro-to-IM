@@ -9,6 +9,7 @@
 
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/September29/2.png)
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/September29/1.png)
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/September29/3.png)
 
 ### Videos, papers and more that inspired me: 
 <ul>

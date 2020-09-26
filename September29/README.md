@@ -20,9 +20,11 @@
          <li>https://spacefiller.space/ (I enjoyed this one a lot!)</li>    
       </ul>
 ### Difficulties: 
+
 <p>
   I didn’t necessarily know what patterns I wanted the program to generate and so I had multiple failed attempts in which the program would not produce what I necessarily wanted and trying to figure out why and how to make it do what I want was challenging since I was also using mathematical formulas and visualizing those was somehow challenging with using for loops. Also, while I think my understanding of loops and arrays is good, once I included object oriented programming (and formed an array of objects), it was somewhat difficult to wrap my head around and debug. The use of OOP definitely made it easier for me to include a large number of overlapping patterns which is the main aspect of this artwork. 
 </p>
+
 <p> I think the program is really cool when continuously running. When the second pattern runs, and continues running, the pattern resembles an abstract version of the bar chart. Also, even though my program produces all colors of the circles, it would be interesting to modify it to only allow certain colors which could potentially look cleaner.
   </p>
   

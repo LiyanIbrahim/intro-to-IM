@@ -10,6 +10,15 @@
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/September29/2.png)
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/September29/1.png)
 
+### Videos, papers and more that inspired me: 
+<ul>
+         <li>https://www.youtube.com/watch?v=L07A9GM37xs</li>
+         <li>https://www.youtube.com/watch?v=i1xxQc636kw</li>
+         <li>https://robertgreiner.com/creating-algorithmic-art-using-processing/</li>
+         <li>https://aiartists.org/generative-art-design</li>
+         <li>https://el.media.mit.edu/logo-foundation/services/pdf/genart.pdf</li>
+         <li>https://spacefiller.space/ (I enjoyed this one a lot!)</li>    
+      </ul>
 
   
   

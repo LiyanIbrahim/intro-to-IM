@@ -20,6 +20,7 @@
          <li>https://el.media.mit.edu/logo-foundation/services/pdf/genart.pdf</li>
          <li>https://spacefiller.space/ (I enjoyed this one a lot!)</li>    
       </ul>
+      
 ### Difficulties: 
 
 <p>

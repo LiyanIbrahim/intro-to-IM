@@ -24,7 +24,7 @@
 ### Difficulties: 
 
 <p>
-  I didn’t necessarily know what patterns I wanted the program to generate and so I had multiple failed attempts in which the program would not produce what I necessarily wanted and trying to figure out why and how to make it do what I want was challenging since I was also using mathematical formulas and visualizing those was somehow challenging with using for loops. Also, while I think my understanding of loops and arrays is good, once I included object oriented programming (and formed an array of objects), it was somewhat difficult to wrap my head around and debug. The use of OOP definitely made it easier for me to include a large number of overlapping patterns which is the main aspect of this artwork. 
+  I didn’t necessarily know what patterns I wanted the program to generate and so I had multiple failed attempts in which the program would not produce what I necessarily wanted and trying to figure out why and how to make it do what I want was challenging since I was also using mathematical formulas and visualizing those was somehow challenging with using for loops. Also, while I think my understanding of loops and arrays is good, once I included object oriented programming (and formed an array of objects), it was somewhat difficult to wrap my head around and debug. The use of OOP definitely made it easier for me to include a large number of overlapping patterns which is the main aspect of this artwork. This is not too apparent in the first pattern since initalT is incremented giving a similiar illusion but once you decrease the size of the array of objects, it significantly changes the second pattern. 
 </p>
 
 ### Other notes:

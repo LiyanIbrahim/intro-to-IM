@@ -15,6 +15,12 @@ I used [this](https://www.wri.org/blog/2020/02/greenhouse-gas-emissions-by-count
 
 ## Static Demo: 
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/October6/1.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/October6/2.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/October6/3.png)
+
 
 
 

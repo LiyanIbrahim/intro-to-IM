@@ -13,3 +13,8 @@ The ellipse came from Shiffman’s video and I decided to use it since it gave t
 
 (looks better once you run the code) </br> 
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/Octorber13/Intro1.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/Octorber13/Intro2.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/Octorber13/Intro3.png)

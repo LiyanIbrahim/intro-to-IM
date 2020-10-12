@@ -18,3 +18,8 @@ The ellipse came from Shiffman’s video and I decided to use it since it gave t
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/Octorber13/Intro2.png)
 
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/Octorber13/Intro3.png)
+
+## Resources: 
+
+https://www.youtube.com/watch?v=NbX3RnlAyGU </br>
+https://processing.org/tutorials/pixels/ </br>

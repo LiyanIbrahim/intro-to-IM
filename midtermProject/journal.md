@@ -26,3 +26,8 @@ Function that checks if the cards match → boolean </br>
 Some way to shuffle the cards </br>
 My draw function should also display the score and attempts, away to go back to main menu </br>
 Function that displays the main menu and function that displays the gameover screen. </br>
+
+Theme planning: </br>
+I will have 8 cards displayed on the screen, therefore, I need 4 unique cards. </br>
+I also want to prompt the user between 3 themes: Movies, Tv shows and Songs </br>
+

@@ -29,5 +29,8 @@ Function that displays the main menu and function that displays the gameover scr
 
 Theme planning: </br>
 I will have 8 cards displayed on the screen, therefore, I need 4 unique cards. </br>
-I also want to prompt the user between 3 themes: Movies, Tv shows and Songs </br>
+I also want to prompt the user between 3 themes: Movies, Tv shows and Bands </br>
+Movie posters: https://www.movieposters.com/ </br>
+TV shows: https://www.fulcrumgallery.com/c38103/tv-show-posters/breaking-bad.htm </br>
+Songs: https://www.allposters.com/-st/All-Bands-Posters_c123707_.htm </br>
 

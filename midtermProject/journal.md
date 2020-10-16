@@ -33,4 +33,8 @@ I also want to prompt the user between 3 themes: Movies, Tv shows and Bands </br
 Movie posters: https://www.movieposters.com/ </br>
 TV shows: https://www.fulcrumgallery.com/c38103/tv-show-posters/breaking-bad.htm </br>
 Songs: https://www.allposters.com/-st/All-Bands-Posters_c123707_.htm </br>
+End of day 1: </br>
+I decided to decrease the number of cards to 6 cards. </br>
+So far, I have a class called cards and I loaded the images in the places I want them to be. I also made a main menu for the game </br>
+
 

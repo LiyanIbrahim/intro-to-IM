@@ -41,3 +41,7 @@ So far, I have a class called cards and I loaded the images in the places I want
 
 While I spent a significant amount of time yesterday working on the plan for this game. Today, I want to focus on making sure I have most of the functionalities installed. Those include the different buttons and screens and how to navigate them. 
 
+End of day 2: </br>
+I managed to include a home screen and three themes, each theme leads to a seperate page and each of these pages has a back button (that looks really cool) that leads back to the main page. </br>
+I did not anticipate this to require as much "programming" as it did. But it makes sense since the draw function is continuously running. </br>
+

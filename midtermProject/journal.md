@@ -45,3 +45,7 @@ End of day 2: </br>
 I managed to include a home screen and three themes, each theme leads to a seperate page and each of these pages has a back button (that looks really cool) that leads back to the main page. </br>
 I did not anticipate this to require as much "programming" as it did. But it makes sense since the draw function is continuously running. </br>
 
+## October 19:
+
+During class time, I want to start working on the functionalities of the game and also add comments to the code that I already have written so I don’t forget my thought process and what part of the code does what since I will be working on this project over the next few days. 
+

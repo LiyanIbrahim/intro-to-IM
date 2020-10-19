@@ -49,3 +49,15 @@ I did not anticipate this to require as much "programming" as it did. But it mak
 
 During class time, I want to start working on the functionalities of the game and also add comments to the code that I already have written so I don’t forget my thought process and what part of the code does what since I will be working on this project over the next few days. 
 
+## Planning the progress for the next few days:
+Progress I’m planning over the next few days to ensure I have enough time to work on the different aspects of the game. </br>
+
+October 20: </br>
+Work on the game portion of the game. (Figure out the functionalities and have at least one theme working). </br>
+Replicate it so the game of the entire theme is working </br>
+
+October 22: </br>
+Add sound </br>
+Make the final scene of the game (game over scene). </br>
+Make a button that promotes the user to go back to the main menu. </br>
+

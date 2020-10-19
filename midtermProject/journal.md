@@ -37,4 +37,7 @@ End of day 1: </br>
 I decided to decrease the number of cards to 6 cards. </br>
 So far, I have a class called cards and I loaded the images in the places I want them to be. I also made a main menu for the game </br>
 
+## October 17: 
+
+While I spent a significant amount of time yesterday working on the plan for this game. Today, I want to focus on making sure I have most of the functionalities installed. Those include the different buttons and screens and how to navigate them. 
 

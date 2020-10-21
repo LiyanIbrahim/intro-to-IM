@@ -49,6 +49,11 @@ I did not anticipate this to require as much "programming" as it did. But it mak
 
 During class time, I want to start working on the functionalities of the game and also add comments to the code that I already have written so I don’t forget my thought process and what part of the code does what since I will be working on this project over the next few days. 
 
+End of Oct 19: </br>
+I realized I did not like the way the background image in the Game theme clashed with the back of the card and since the front of the cards are also images that are colorful and complicated, I think a simpler image is better (It will also have text like the player’s score) </br>
+I fixed the placements and size of the cards so they look like what I want them to look it on the screen during the game </br>
+I don’t think it would work if I used the mousePressed function since I’m navigating different scenes for different mousePressed() functions </br>
+
 ## Planning the progress for the next few days:
 Progress I’m planning over the next few days to ensure I have enough time to work on the different aspects of the game. </br>
 

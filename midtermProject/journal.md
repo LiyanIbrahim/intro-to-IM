@@ -66,3 +66,9 @@ Add sound </br>
 Make the final scene of the game (game over scene). </br>
 Make a button that promotes the user to go back to the main menu. </br>
 
+
+## October 21
+
+Some issues I’ve faced: </br>
+Since I’m navigating between different screens and those screens require mousePressed functions that are different, when I picked the theme by pressing on one of the boxes, the card behind it will also reveal. Therefore, I am making a button that will let the user know where to click on the box for the theme in a place that does not overlap with the rest of the cards. 
+

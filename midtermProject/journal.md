@@ -78,4 +78,22 @@ Debugging: </br>
   <li> Index out of range error fixing </li>
   <li> Wrong string being associated with each poster so wrong game </li>
   </ol> 
+  
+## October 25: 
+
+Debugging: </br>
+<ol>
+  <li>Cards flipping is causing an issue. First issue is that if two cards don't match, the program flips all the cards including the ones that are already matched and flipped → using the wrong index </li>
+  <li>The second card does not flip if the cards are not the same </li>
+  <li>If the cards aren’t the same, then the second card flips as the first card of the second round. </li>
+  </ol>
+
+Solutions(?):</br>
+For the first problem: I was using the wrong index since I was using a for loop to go through all the cards to flip. However, this is no longer an issue since I have to change the way the game works because I’m having an issue with point 2 and 3 and so I will approach it differently and point 1 becomes less relevant. 
+Using millis() did not work in my case and I think it is because I
+
+This is my new approach: </br>
+Instead of having a timer that flips the cards, the user will flip them by pressing the right arrow. That way, if the cards are matched, then the cards will show the “matched” image, if not then the user can flip the cards back. </br>
+I might also implement a certain song for each scene and use it kind of like a self timer. 
+
 

@@ -96,4 +96,10 @@ This is my new approach: </br>
 Instead of having a timer that flips the cards, the user will flip them by pressing the right arrow. That way, if the cards are matched, then the cards will show the “matched” image, if not then the user can flip the cards back. </br>
 I might also implement a certain song for each scene and use it kind of like a self timer. 
 
+**Important things I’ve realized:**
+
+Even though using classes helped significantly, I’ve realized that I should’ve made a deck of cards class and that would’ve facilitated the use of the different features across the themes more efficiently than hard coding it like I did. It would also be easier to see the different variables more clearly and prevent the index out of range error in a way that is better than what I’ve done.  </br>
+I wish I used this method before since having three classes almost exactly the same was unnecessary but I realized this too far in and so it made more sense to continue. </br>
+I have also realized that I put the movie theme in place of the TV show slot. It would be easier to modify the string array with the filenames for the picture being loaded but it would be misleading once reading the code </br>
+
 

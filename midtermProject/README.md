@@ -3,7 +3,7 @@
 For my game, I decided to do a themed card game in which the user can pick between three themes, TV shows, bands and movies. 
 I wanted the entire game to resemble 90’s arcade games and I did that using the music and even the fact that the cards do not shuffle making them a one time thing (unless you want to replay the same theme again. 
 
-[Link to my Journey!]() 
+[Link to my Journey!](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/journal.md) 
 
 ## Reflections after finishing the assignment: 
 

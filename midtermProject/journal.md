@@ -113,5 +113,9 @@ Note that since my cursor is not a certain shape I can index in the mouse presse
 Photos for my progression in the game: </br>
 As I was implementing the game, I took some screenshots of my progress (that do not include the final output that I thought I'd share). </br> 
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/Screen%20Shot%202020-10-16%20at%207.49.02%20PM.png)
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/Screen%20Shot%202020-10-19%20at%202.55.33%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/Screen%20Shot%202020-10-19%20at%203.05.10%20PM.png)
 

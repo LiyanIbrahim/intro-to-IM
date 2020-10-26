@@ -33,4 +33,11 @@ I should’ve approached the assignment slightly differently by creating more cl
 
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/1.2.png)
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/1.3.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/1.4.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/1.5.png)
+
+
  

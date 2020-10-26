@@ -29,5 +29,8 @@ I should’ve approached the assignment slightly differently by creating more cl
 
 ## Screenshots and Videos 
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/1.1.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/1.2.png)
 
  

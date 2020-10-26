@@ -103,12 +103,15 @@ I wish I used this method before since having three classes almost exactly the s
 I have also realized that I put the movie theme in place of the TV show slot. It would be easier to modify the string array with the filenames for the picture being loaded but it would be misleading once reading the code </br>
 
 ## October 26
-**Notes from my debugging: **
+**Notes from my debugging:**
 
 I realized that the way I was comparing the cards was faulty. Since I was using movie posters, I wanted to compare the file names and the way I was doing it was working, for the most part, when I had the files in order. Once I manually shuffled them, they stopped working in the sense that they will not match correctly, I’ve printed the index I was referencing for every image and the string it was comparing and they were not consistent. I tried to find a pattern but I was not able to and so I decided to take a look at the function in my class that gives the string of the movie name. </br>
 I honestly do not understand why it was wrong at the beginning but I decided to pass the index to that function and return the string of that index instead of the more dynamic (but incorrect) way I had it before. 
 
 Note that since my cursor is not a certain shape I can index in the mouse pressed function, it is sort of out of index. I made sure that the entire area is covered by the mousepressed function but some of the area maybe also be outside. 
+
+Photos for my progression in the game: </br>
+As I was implementing the game, I took some screenshots of my progress (that do not include the final output that I thought I'd share). </br> 
 
 
 

@@ -40,4 +40,5 @@ I should’ve approached the assignment slightly differently by creating more cl
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/midtermProject/mediaForGithub/1.5.png)
 
 
+[Link to Video!](https://drive.google.com/drive/u/0/folders/1zwvzI8nMG0LBagXzjiYNXAXsL3l8oTrt)
  

@@ -12,4 +12,20 @@ I should’ve approached the assignment slightly differently by creating more cl
 <ol> 
   <li>A cards class that is dynamic enough to change the string of images used based on a certain variable. Even though I did have that, I had three classes for each theme but they could’ve easily been combined into one class. </li>
   <li> A deck or game class that deals with the functionalities that are present in the main code (not in the class). </li>
+  
+ ## References:
+ <ul>
+  <li> https://www.befunky.com/create/designer/ </li>
+  <li> https://www.movieposters.com/ </li>
+  <li> https://www.fulcrumgallery.com/c38103/tv-show-posters/breaking-bad.htm </li>
+  <li> https://www.allposters.com/-st/All-Bands-Posters_c123707_.htm </li>
+  <li> https://www.youtube.com/playlist?list=PLPH4B4cEbUt4F2u3ct1L0fzMOvoIoRdO2 </li>
+  <li> https://processing.org/reference/keyPressed.html </li>
+  <li> https://processing.org/reference/keyReleased_.html </li>
+  <li> https://github.com/processing/processing/wiki/Troubleshooting#key-repeat-on-macos-sierra </li>
+  <li> https://stackoverflow.com/questions/886955/how-do-i-break-out-of-nested-loops-in-java </li>
+  <li> https://forum.processing.org/one/topic/memory-game.html </li>
+</ul>
 
+
+ 

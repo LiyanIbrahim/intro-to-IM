@@ -27,5 +27,7 @@ I should’ve approached the assignment slightly differently by creating more cl
   <li> https://forum.processing.org/one/topic/memory-game.html </li>
 </ul>
 
+## Screenshots and Videos 
+
 
  

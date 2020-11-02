@@ -13,3 +13,7 @@ Instructions:
 <li>If incorrect, the correct LED lights up. </li>
 
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November3/Screen%20Shot%202020-11-02%20at%205.06.36%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November3/Screen%20Shot%202020-11-02%20at%205.06.42%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November3/Screen%20Shot%202020-11-02%20at%205.06.57%20PM.png)

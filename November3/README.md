@@ -18,5 +18,8 @@ Instructions:
 
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November3/Screen%20Shot%202020-11-02%20at%205.06.57%20PM.png)
 
+Schematic: 
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November3/Screen%20Shot%202020-11-03%20at%2012.53.51%20PM.png) 
 
 [Link to video!](https://drive.google.com/drive/u/0/folders/1E1RPg5zl6oNm23-QNtPyYQuCKYgR3RAI)

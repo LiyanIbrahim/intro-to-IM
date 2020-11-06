@@ -3,6 +3,7 @@ For this assignment, I plan on implementing 2 exact patterns but the rate at whi
 
 <li>Digital pattern → have a set delay time but will depend on pressing the switch?</li>
 <li>Analog pattern → depends on LDR </li>
+</ul>
 
 In both cases, brightness of the LEDs will depend on the potentiometer. 
 

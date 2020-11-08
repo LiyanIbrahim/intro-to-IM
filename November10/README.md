@@ -6,3 +6,9 @@ Note that it depends on one reading of the light intensity.
 Coming up with an idea: Once I built the circuit and had the hardware components set, coming up with an idea to do with them was more challenging than I thought. I eventually ended up trying out different things and I picked the one I liked the most and had the most compelling and complete narrative.
 PINS:I spent far too much time trying to debug the code because one of the LEDs was not lighting up in the analog pattern. Eventually, I figured out that it was the pin it was connected to does not have the ~ sign and therefore does not read analog. 
 
+## Images:
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November10/Screen%20Shot%202020-11-08%20at%201.24.58%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November10/Screen%20Shot%202020-11-08%20at%201.25.18%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November10/Screen%20Shot%202020-11-08%20at%201.25.34%20PM.png)

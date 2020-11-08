@@ -12,3 +12,5 @@ PINS:I spent far too much time trying to debug the code because one of the LEDs 
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November10/Screen%20Shot%202020-11-08%20at%201.25.18%20PM.png)
 
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November10/Screen%20Shot%202020-11-08%20at%201.25.34%20PM.png)
+
+[Link to Video!](https://drive.google.com/drive/u/0/folders/1T540U85q89mYA65VK5eAWJeVwl3MgEfT)

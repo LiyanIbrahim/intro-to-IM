@@ -9,6 +9,12 @@ The LED is used as a sort of indication of which level the person using the inst
 
 ### Setup: 
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November15/1.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November15/2.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November15/3.png)
+
 
 ### Schematc: 
 

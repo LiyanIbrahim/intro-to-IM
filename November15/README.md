@@ -18,3 +18,7 @@ The LED is used as a sort of indication of which level the person using the inst
 
 ### Schematc: 
 
+
+### Video: 
+
+https://drive.google.com/drive/u/0/folders/1hR-bVDiAX8SsFRcICw7hygjiNvBQZdOp

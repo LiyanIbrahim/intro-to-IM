@@ -22,3 +22,15 @@ The LED is used as a sort of indication of which level the person using the inst
 ### Video: 
 
 https://drive.google.com/drive/u/0/folders/1hR-bVDiAX8SsFRcICw7hygjiNvBQZdOp
+
+### Resources: 
+
+https://create.arduino.cc/projecthub/GeneralSpud/passive-buzzer-song-take-on-me-by-a-ha-0f04a8
+
+https://www.hackster.io/techarea98/super-mario-theme-song-with-piezo-buzzer-and-arduino-2cc461
+
+https://dragaosemchama.com/en/2019/02/songs-for-arduino/
+
+https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all
+
+

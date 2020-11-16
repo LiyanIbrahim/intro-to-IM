@@ -17,7 +17,7 @@ The LED is used as a sort of indication of which level the person using the inst
 
 
 ### Schematc: 
-
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November15/Screen%20Shot%202020-11-16%20at%2010.36.43%20AM.png)
 
 ### Video: 
 

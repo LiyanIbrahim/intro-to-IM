@@ -15,4 +15,6 @@ The game has 2 rounds, the second round will only start playing if the user gues
 
 ## Schematics:
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/November24/Screen%20Shot%202020-11-22%20at%206.51.22%20PM.png)
+
 [Link to Video](https://drive.google.com/drive/folders/1tAw7K2tEDLIeprzm2QANFFgC6XXiMrn-)

@@ -9,3 +9,5 @@ We often think or assume that robots and machines are unbiased and easier to tal
 Brainstorming: 
 
 Here is a rough initial idea of somethings my robot could do: 
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/Screen%20Shot%202020-11-23%20at%206.02.33%20PM.png)

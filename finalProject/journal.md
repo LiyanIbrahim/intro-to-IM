@@ -26,6 +26,7 @@ I want the body of this (or the arduino part) to be receptive to the surrounding
 
 **Brainstorming the implementation:**
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/day2.png)
 
 **My initial plan for implementing this:**
 

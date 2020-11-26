@@ -40,8 +40,7 @@ One face for holding different parts. Since I will be making this for myself. I 
 One face as the introduction for this entire game. Possibly using a button/mouse clicked to start the study system. 
 
 
-After Identifying the different functionalities (which are prone to change), I need to create the graphics for each function and face for processing. 
-To do that I’m using https://www.canva.com/. But before doing that, I want to identify a color palette that I will use consistently in my project. 
+After Identifying the different functionalities (which are prone to change), I need to create the graphics for each function and face for processing. But before doing that, I want to identify a color palette that I will use consistently in my project. 
 
 **Color palette**
 

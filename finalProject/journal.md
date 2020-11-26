@@ -38,3 +38,16 @@ One face for taking a break. Activated by pressing a button. Prompts users for 3
 One face for holding different parts. Since I will be making this for myself. I would implement sockets for things I normally use. 
 
 One face as the introduction for this entire game. Possibly using a button/mouse clicked to start the study system. 
+
+
+After Identifying the different functionalities (which are prone to change), I need to create the graphics for each function and face for processing. 
+To do that I’m using https://www.canva.com/. But before doing that, I want to identify a color palette that I will use consistently in my project. 
+
+**Color palette**
+
+Color 1: 160, 154, 188</br>
+Color 2: 182, 166, 202</br>
+Color 3: 213, 207, 225</br>
+Color 4: 225, 222, 233</br>
+Color 5: 212, 190, 190</br>
+

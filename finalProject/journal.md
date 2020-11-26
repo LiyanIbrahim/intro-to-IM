@@ -16,7 +16,7 @@ Here is a rough initial idea of somethings my robot could do:
 
 ### Day2: 
 
-**Refined initial concept: **
+**Refined initial concept:**
 
 While my initial concept was a support system, I think specifying it even more would make the product better and have features that are specific and explicit. Therefore, I decided to make it a study support system. Additionally, the design of the robot would be tailored towards this instead of being a very generally designed physical system.   
 
@@ -24,10 +24,10 @@ While my initial concept was a support system, I think specifying it even more w
 
 I want the body of this (or the arduino part) to be receptive to the surroundings and for the processing window to be the one the user controls. 
 
-**Brainstorming the implementation: **
+**Brainstorming the implementation:**
 
 
-**My initial plan for implementing this: **
+**My initial plan for implementing this:**
 
 A cube structure:
 One face for placing a drink. Detected by motion sensor. Has a temperature sensor to detect the temperature. Prompts the user to pick if it’s cold or iced. System will move on but display a reading on the edge if the drink gets too cold or too hot as the user does other things. 

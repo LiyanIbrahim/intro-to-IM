@@ -55,6 +55,8 @@ I used today to get the bulk of the work done on this assignment so I can identi
 I wired up the entire arduino setup and this is how it looked:</br>
 This uses 2 breadboards but I’ll probably end up using three or four. </br>
 
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/Screen%20Shot%202020-11-27%20at%2010.35.02%20PM.png)
+
 Then, since I had my graphics done, I started with the code and I immediately had to change some things such as which sensors control what since we have limited supply and I want the device I was building to be user friendly and intuitive and so with that, some functionalities I had in mind had to change since they depended on the sensors they used. </br>
 An example would be that I wanted to use the potentiometer to switch between the song playlists but now I’m using a toggle switch for turning on/off the music instead and using the potentiometer to pick between the 2 different modes (study mode and break mode). </br>
 This is what the plan for the functionality looks like so far: </br>
@@ -62,6 +64,13 @@ Study Mode → plays study music </br>
 Break Mode → 1. Plays relaxing music, 2. Game mode, 3. Dance party mode </br>
 
 I’ve also made the skeleton of my project which I will then decorate and add the arduino to. </br>
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/Screen%20Shot%202020-11-27%20at%2010.34.12%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/Screen%20Shot%202020-11-27%20at%2010.34.23%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/Screen%20Shot%202020-11-27%20at%2010.34.36%20PM.png)
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/Screen%20Shot%202020-11-27%20at%2010.34.52%20PM.png)
 
 Technical things I have left: </br>
 <ul>

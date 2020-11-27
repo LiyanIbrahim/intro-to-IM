@@ -50,3 +50,25 @@ Color 3: 213, 207, 225</br>
 Color 4: 225, 222, 233</br>
 Color 5: 212, 190, 190</br>
 
+### Day 3
+I used today to get the bulk of the work done on this assignment so I can identify the missing or the parts that I need to get done later. </br>
+I wired up the entire arduino setup and this is how it looked:</br>
+This uses 2 breadboards but I’ll probably end up using three or four. </br>
+
+Then, since I had my graphics done, I started with the code and I immediately had to change some things such as which sensors control what since we have limited supply and I want the device I was building to be user friendly and intuitive and so with that, some functionalities I had in mind had to change since they depended on the sensors they used. </br>
+An example would be that I wanted to use the potentiometer to switch between the song playlists but now I’m using a toggle switch for turning on/off the music instead and using the potentiometer to pick between the 2 different modes (study mode and break mode). </br>
+This is what the plan for the functionality looks like so far: </br>
+Study Mode → plays study music </br>
+Break Mode → 1. Plays relaxing music, 2. Game mode, 3. Dance party mode </br>
+
+I’ve also made the skeleton of my project which I will then decorate and add the arduino to. </br>
+
+Technical things I have left: </br>
+<ul>
+  <li>I need to figure out the game. I have a rough code for what I want it to be but I need to figure out the technicalities of it since I want it to be a complex enough game but I want the instructions to be simple enough for the user to understand and take in since it is a game to play during “break time”. </li>
+
+<li>Add LEDs</li>
+<li>I need to add songs. I only added the study mode songs now since it makes the processing program take a very long time to load so it was easier for me, since I am constantly changing things, to load them at the end. </li>
+<li>To decorate my box </li>
+</ul>
+

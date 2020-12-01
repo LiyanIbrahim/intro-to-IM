@@ -81,3 +81,10 @@ Technical things I have left: </br>
 <li>To decorate my box </li>
 </ul>
 
+## Week 2 
+
+I decided to not use some components because they made the system less effective and some just did not make sense. I also spent 4 hours!!! debugging my code due to an error in the sound file. It was crunchy and staticy and it would not stop even after calling the .stop() function for each sound file. I ended up figuring it out by going on discord and looking in the search button for “sound” and I found a question that was asked a couple weeks ago that related to my issue and helped me debug it! 
+I now need to decorate my box ad]nd enclose my arduino in it. 
+I also made a game that is fun to play and embedded that into my program.
+
+

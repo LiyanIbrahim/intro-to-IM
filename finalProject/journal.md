@@ -87,4 +87,7 @@ I decided to not use some components because they made the system less effective
 I now need to decorate my box ad]nd enclose my arduino in it. 
 I also made a game that is fun to play and embedded that into my program.
 
+## Week 3
+
+This week, I started off by tackling the enclosure since it was the main thing I haven’t spent time on. I fell into the trap of decorating the box before seeing if it fits and if I like the way it looks. I did end up hating the way it looks mainly because of the way it fit on top of the wires. Therefore, I completely reconstructed it and now, it looks and fits better but isn’t (in my opinion) ideal for like “a study tool”. But because of the time constraints of this project and the lack of less bulky wires, I decided to just stick to it since it worked. 
 

@@ -91,3 +91,6 @@ I also made a game that is fun to play and embedded that into my program.
 
 This week, I started off by tackling the enclosure since it was the main thing I haven’t spent time on. I fell into the trap of decorating the box before seeing if it fits and if I like the way it looks. I did end up hating the way it looks mainly because of the way it fit on top of the wires. Therefore, I completely reconstructed it and now, it looks and fits better but isn’t (in my opinion) ideal for like “a study tool”. But because of the time constraints of this project and the lack of less bulky wires, I decided to just stick to it since it worked. 
 
+At this point, I was theoretically “done” and all I needed to do is film and write the documentation. But for some reason, I started doubting my project idea as a whole. It’s due in 2 days and I have more than 450 lines of code in processing and more in arduino done and so really not much I can do about it. I think I started to dislike it because I put so much time into it and kept replaying it over and over again that I started to, in some sense, become sick of it. I also think part of it is because I’m designing this “product” and so it’s supposed to be continuously used by the user and is inherently less exciting than a game (even though mine has an embedded game in it). 
+
+

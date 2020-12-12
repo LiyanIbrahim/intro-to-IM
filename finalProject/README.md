@@ -24,7 +24,13 @@ I wanted the physical product to mean something which is the reason I decorated 
 
 ## Circuit Picture 
 
+This is the picture of the circuit before adding the LEDs: 
+
 ![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/finalCIR.png)
+
+Enclosure with LEDs: 
+![]()
+
 
 ## Schematic
 

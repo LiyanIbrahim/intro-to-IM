@@ -22,6 +22,12 @@ I wanted the physical product to mean something which is the reason I decorated 
 
 [Link to Video](https://drive.google.com/drive/folders/1I53PJ55eTghDyLQddpvviRVi-MA6P99a?usp=sharing)
 
+## Circuit Picture 
+
+![](https://github.com/LiyanIbrahim/intro-to-IM/blob/master/finalProject/finalCIR.png)
+
+## Schematic
+
 ## Challenges: 
 
 <li> Sound: I’ve had a lot of difficulty debugging a certain issue with the songs I was playing. I knew it was part of my code since the mp3 file was fine and when I was using the built in examples, it did not sound staticy and distorted. However, at that point, I had around 200 lines of codes and too many if statements and loops involved in the production of the sound and I knew one of them was causing the issue but it was hard to identify since they all contributed in some way to the program working. I documented this issue more in detail in my journey but eventually it turns out I was playing the song continuously in the loop and the solution was putting an if statement to only play the song if it’s ntr being played.  </li>
